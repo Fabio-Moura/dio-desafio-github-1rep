@@ -2,5 +2,6 @@
 Desafio de projeto sobre Git-hub
 
 ## Links Úteis
-[Sintaxe Básica MarkDown](https://www.markdownguide.org/)
-[Taypora](https://typora.io/)
+[Sintaxe Básica MarkDown](https://www.markdownguide.org/);
+
+[Typora](https://typora.io/)
